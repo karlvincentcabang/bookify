@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Deluxe Room",
+    "price": 120,
+    "type": "Single",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Family Suite",
+    "price": 250,
+    "type": "Double",
+    "available": false
+  }
+]
